@@ -1,0 +1,3 @@
+Mempelajari tentang box menggunakan tag div beserta max dan min width
+Mempelajari overflow
+Membuat padding, margin, border

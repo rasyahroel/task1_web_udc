@@ -1,0 +1,1 @@
+Membuat artikel dengan model kotak-kotak dengan responsive terhadap layar menggunakan flex untuk preview artikel di homepage dan membuat link untuk masuk ke artikel masing-masing

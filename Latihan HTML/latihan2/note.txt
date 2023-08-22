@@ -1,0 +1,1 @@
+latihan 2 menjelaskan cara membuat link menggunakan tag a dan ul, membuat table, membuat form label input textarea

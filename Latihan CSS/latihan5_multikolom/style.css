@@ -1,0 +1,47 @@
+* {
+    font-family: Tahoma;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: burlywood;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    z-index: 1;
+}
+
+.header h1 {
+    margin-left: 50px;
+}
+
+.container {
+    position: relative;
+    max-width: 700px;
+    top: 100px;
+    margin: 0 auto 0 auto;
+}
+
+.container h2 {
+    font-size: 18px;
+}
+
+.konten {
+    width: 500px;
+    float: left;
+}
+
+.menu {
+    background-color: aquamarine;
+    width: 200px;
+    padding: 10px;
+    float: left;
+    margin-left: 10px;
+}
+
+.menu ul {
+    list-style-type: none;
+}

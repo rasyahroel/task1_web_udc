@@ -1,0 +1,87 @@
+* {
+    font-family: Tahoma;
+}
+
+.header {
+    display: flex;
+    background-color: cornflowerblue;
+    padding: 10px;
+    justify-content: center;
+}
+
+.header:hover {
+    background-color: cadetblue;
+}
+
+.title {
+    font-size: 3em;
+    font-weight: bold;
+    text-decoration: none;
+    color: cornsilk;
+}
+
+.judul {
+    display: flex;
+    background-color: coral;
+    padding: 5px;
+    justify-content: center;
+    margin-top: 10px;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+
+/* konten */
+
+.konten {
+    min-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.penulis {
+    color: crimson;
+}
+
+.credit {
+    font-size: 14px;
+    font-weight: normal;
+}
+
+.tanggal {
+    color: olive;
+}
+
+span {
+    color: blue;
+}
+
+
+/* Homepage */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box-preview {
+    margin: 20px;
+    background-color: antiquewhite;
+    padding: 10px;
+    width: 300px;
+}
+
+.box-preview:hover {
+    background-color: #efefef;
+}
+
+.box-preview-title {
+    font-size: 1.2em;
+    height: 60px;
+    font-weight: bold;
+}
+
+.box-preview-credit {
+    font-style: italic;
+}

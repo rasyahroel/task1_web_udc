@@ -1,0 +1,11 @@
+-- Navbar
+Membuat nav menggunakan semua class nav, sm, lg, dan toggler
+
+-- Header
+Membuat header dengan menggunakan d-flex, img-fluid, lead untuk paragraf, m, p
+
+-- Card
+Membuat card menggunakan card, g, row, col, col-md, button
+
+-- Input, List, Icon
+Membuat input-group, list-group, flush
